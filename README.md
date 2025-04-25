@@ -27,13 +27,15 @@ Libraries used in this project
 
 🚀 Features
 
-Custom Bottom Tab Navigator using Expo Router v3
+-Custom Bottom Tab Navigator using Expo Router v3
 
-Interactive Pie Charts to visualize spending categories
+-Interactive Pie Charts to visualize spending categories
 
-Responsive UI with modern design principles
+-Responsive UI with modern design principles
 
-SVG Support via react-native-svg-transformer
+-SVG Support via react-native-svg-transformer
+
+
 
 
 🧰 Tech Stack
