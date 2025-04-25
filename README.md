@@ -11,7 +11,17 @@ Libraries used in this project
 
 
 📱 App Preview
+
+
+
+
+
+
+
 ![Finance App in React Native with Expo Router](./finance-app-iphone.png)
+
+
+
 
 
 
