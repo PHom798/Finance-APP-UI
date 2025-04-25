@@ -36,5 +36,18 @@ Responsive UI with modern design principles
 SVG Support via react-native-svg-transformer
 
 
+🧰 Tech Stack
+
+Expo — Managed workflow for rapid development
+
+React Native Router (Expo Router) — File-based routing and deep linking
+
+React Native Gifted Charts — Beautiful, customizable charts
+
+React Native SVG Transformer — Import and render SVG assets
+
+TypeScript — (Optional) static typing for safer code
+
+
 
 
