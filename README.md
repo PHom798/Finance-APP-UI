@@ -63,4 +63,17 @@ Before you begin, ensure you have the following installed:
 * Expo Go app installed on your mobile device for testing
 
 
+📱 Supported Platforms
+
+* iOS
+* Android
+
+🤝 Contributing
+* Contributions, issues, and feature requests are welcome! Feel free to check issues page.
+
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/amazing-feature)
+3. Commit your changes (git commit -m 'Add some amazing feature')
+4. Push to the branch (git push origin feature/amazing-feature)
+* Open a Pull Request
 
