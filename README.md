@@ -63,6 +63,14 @@ Before you begin, ensure you have the following installed:
 * Expo Go app installed on your mobile device for testing
 
 
+
+
+🔧 Installation
+1. Clone the repository:
+* git clone https://github.com/PHom798/Finance-APP-UI.git
+* cd Finance-APP-UI
+
+
 📱 Supported Platforms
 
 * iOS
