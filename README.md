@@ -40,9 +40,9 @@ Libraries used in this project
 
 🧰 Tech Stack
 
-Expo — Managed workflow for rapid development
+* Expo — Managed workflow for rapid development
 
-React Native Router (Expo Router) — File-based routing and deep linking
+* React Native Router (Expo Router) — File-based routing and deep linking
 
 React Native Gifted Charts — Beautiful, customizable charts
 
