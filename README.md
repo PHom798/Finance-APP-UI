@@ -38,17 +38,19 @@ Libraries used in this project
 
 
 
+
+
 🧰 Tech Stack
 
 * Expo — Managed workflow for rapid development
 
 * React Native Router (Expo Router) — File-based routing and deep linking
 
-React Native Gifted Charts — Beautiful, customizable charts
+* React Native Gifted Charts — Beautiful, customizable charts
 
-React Native SVG Transformer — Import and render SVG assets
+* React Native SVG Transformer — Import and render SVG assets
 
-TypeScript — (Optional) static typing for safer code
+* TypeScript — (Optional) static typing for safer code
 
 
 
