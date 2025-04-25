@@ -54,4 +54,29 @@ Libraries used in this project
 
 
 
+🔧 Installation
+
+* Clone the repository
+
+git clone https://github.com/PHom798/Finance-APP-UI.git
+cd Finance-APP-UI
+
+* Install dependencies
+
+npm install
+# or
+yarn install
+
+* Start the development server
+
+npx expo start
+
+Run on your device or emulator
+
+Scan the QR code with the Expo Go app (iOS/Android)
+
+Or press i (iOS Simulator) / a (Android Emulator)
+
+
+
 
