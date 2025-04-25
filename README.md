@@ -70,6 +70,29 @@ Before you begin, ensure you have the following installed:
 * git clone https://github.com/PHom798/Finance-APP-UI.git
 * cd Finance-APP-UI
 
+2. Install dependencies:
+- With npm:
+- npm install
+- or With yarn:
+- yarn install
+
+3. Start the development server:
+* npx expo start
+
+Alternative commands:
+* Using npm
+npm run start
+
+* Using yarn
+yarn start
+
+4. Open the app:
+
+* Scan the QR code with Expo Go on your mobile device
+* Press a in the terminal to open on Android emulator
+* Press i in the terminal to open on iOS simulator
+
+
 
 📱 Supported Platforms
 
