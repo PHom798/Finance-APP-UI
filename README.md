@@ -54,29 +54,13 @@ Libraries used in this project
 
 
 
-🔧 Installation
+📋 Prerequisites:
+Before you begin, ensure you have the following installed:
 
-* Clone the repository
-
-git clone https://github.com/PHom798/Finance-APP-UI.git
-cd Finance-APP-UI
-
-* Install dependencies
-
-npm install
-# or
-yarn install
-
-* Start the development server
-
-npx expo start
-
-Run on your device or emulator
-
-Scan the QR code with the Expo Go app (iOS/Android)
-
-Or press i (iOS Simulator) / a (Android Emulator)
-
+* Node.js (v14 or newer)
+* npm (v6 or newer) or Yarn (v1.22 or newer)
+* Expo CLI (npm install -g expo-cli)
+* Expo Go app installed on your mobile device for testing
 
 
 
